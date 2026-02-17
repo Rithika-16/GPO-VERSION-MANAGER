@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jcifs-ng-2.1.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/slf4j-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/slf4j-simple.jar!/" />
+      <root url="jar://$PROJECT_DIR$/smbj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mbassador.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bcprov.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
