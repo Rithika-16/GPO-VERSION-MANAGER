@@ -23,10 +23,10 @@ import com.hierynomus.msfscc.FileAttributes;
 public class GpoVersionControl {
 
     private static final Path BASE_DIR = Paths.get("gpo_versions");
-    private static final String DC = "10.63.47.47";
-    private static final String DOMAIN = "admphybrid";
-    private static final String USER = "rithikak";
-    private static final String PASS = "Test@125$";
+    private static final String DC = "xx.xx.xx.xx";
+    private static final String DOMAIN = "domainname";
+    private static final String USER = "username";
+    private static final String PASS = "password";
     private static final String TARGET_GPO_NAME = "New group policy object";
 
     public static void main(String[] args) throws Exception {
